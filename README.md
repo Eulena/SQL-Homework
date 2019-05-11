@@ -4,6 +4,8 @@ Submitted By:	Monica Linsangan
 Homework:	SQL
 Date:	05/10/2019
 
+## Please see folder for .sql file of Queries and Table schemata.
+
 ## DATA MODELING:
 ERD of the tables (see folder for screenshots) 
 
