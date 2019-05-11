@@ -56,7 +56,7 @@ CREATE TABLE titles (
 
   
 ## DATA ANALYSIS:
-### Please see folder for .sql files of Queries and Table schemata.
+### See folder for .sql files of Queries and Table schemata (when file is large, please view **raw** data or download the file)
 1.	List the following details of each employee: employee number, last name, first name, gender, and salary.
 ```
 SELECT
