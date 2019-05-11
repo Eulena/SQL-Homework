@@ -1,8 +1,8 @@
 # SQL-Homework
 
-* #Submitted By: Monica Linsangan
-* #Homework: SQL
-* #Date: 05/10/2019
+* **Submitted By:** Monica Linsangan
+* **Homework:** SQL
+* **Date:** 05/10/2019
 
 
 
