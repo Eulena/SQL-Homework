@@ -10,7 +10,7 @@ Date:	05/10/2019
 ERD of the tables (see folder for screenshots) 
 
 ## DATA ENGINEERING: 6 Tables created
-Import each CSV file into the corresponding SQL table (see folder for screenshots)
+Each CSV file imported into the corresponding SQL table (see folder for screenshots)
 
 ```
 CREATE TABLE departments (
