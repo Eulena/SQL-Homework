@@ -4,7 +4,7 @@ Submitted By:	Monica Linsangan
 Homework:	SQL
 Date:	05/10/2019
 
-## Please see folder for .sql file of Queries and Table schemata.
+
 
 ## DATA MODELING:
 ERD of the tables (see folder for screenshots) 
@@ -57,6 +57,7 @@ CREATE TABLE titles (
 
   
 ## DATA ANALYSIS:
+### Please see folder for .sql files of Queries and Table schemata.
 1.	List the following details of each employee: employee number, last name, first name, gender, and salary.
 ```
 SELECT
