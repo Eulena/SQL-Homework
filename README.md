@@ -15,17 +15,20 @@ CREATE TABLE departments (
 	dept_no VARCHAR(50),
 	dept_name VARCHAR(100))
 ```
+```
 CREATE TABLE dept_emp (
 	emp_no INT,
 	dept_no VARCHAR(50),
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL)
-```  
+```
+```
 CREATE TABLE dept_manager (
 	dept_no VARCHAR(50),
         emp_no INT,	
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL)
+```
 ```
 CREATE TABLE employees_data (
 	emp_no INT,
@@ -35,6 +38,7 @@ CREATE TABLE employees_data (
 	gender VARCHAR(50),
 	hire_date DATE NOT NULL)
 ```  
+```
 CREATE TABLE salaries (
 	emp_no INT,
 	salary INT,
@@ -45,8 +49,11 @@ CREATE TABLE titles (
 	emp_no INT,
 	title VARCHAR (100),
 	from_date DATE NOT NULL,
-	to_date DATE NOT NULL)
+	to_date DATE NOT NULL) 
+```
+```
 
+##
   
 ## DATA ANALYSIS:
 1.	List the following details of each employee: employee number, last name, first name, gender, and salary.
