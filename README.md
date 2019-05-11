@@ -45,15 +45,14 @@ CREATE TABLE salaries (
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL)
 ```  
+```
 CREATE TABLE titles (
 	emp_no INT,
 	title VARCHAR (100),
 	from_date DATE NOT NULL,
 	to_date DATE NOT NULL) 
 ```
-```
 
-##
   
 ## DATA ANALYSIS:
 1.	List the following details of each employee: employee number, last name, first name, gender, and salary.
