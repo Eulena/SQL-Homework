@@ -1,7 +1,6 @@
 # SQL-Homework
 
 * **Submitted By:** Monica Linsangan
-* **Homework:** SQL
 * **Date:** 05/10/2019
 
 
